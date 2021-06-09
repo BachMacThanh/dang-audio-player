@@ -19,6 +19,24 @@ $(document).ready(function () {
         "https://github.com/DangDev/dang-audio-player/releases/download/music/y2mate.com.-.H.Yeu.Ai.M.t.R.i.l.Doan.Hi.u.l.Official.Lofi.Version.mp3",
       poster:
         "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/2/0/c/8/20c8208e735601981e8d3b85b3d4cacd.jpg"
+    },
+    {
+      title: "Windy Hill",
+      artist: "BGM",
+      mp3:
+        "https://github.com/DangDev/dang-audio-player/releases/download/music/y2mate.com.-.Windy.Hill.BGM.mp3",
+      oga:
+        "https://github.com/DangDev/dang-audio-player/releases/download/music/y2mate.com.-.Windy.Hill.BGM.mp3",
+      poster: "https://i.ytimg.com/vi/f1hsXN9XA8k/0.jpg"
+    },
+    {
+      title: "Năm ấy",
+      artist: "Đức Phúc",
+      mp3:
+        "https://github.com/DangDev/dang-audio-player/releases/download/music/y2mate.com.-.Nam.y.D.c.Phuc.Video.Lyrics.mp3",
+      oga:
+        "https://github.com/DangDev/dang-audio-player/releases/download/music/y2mate.com.-.Nam.y.D.c.Phuc.Video.Lyrics.mp3",
+      poster: "https://i.ytimg.com/vi/7GePzw6q5EQ/0.jpg"
     }
   ];
 
