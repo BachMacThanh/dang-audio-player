@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
   var playlist = [{
-      title:"Hidden",
-      artist:"Miaow",
+      title:"Mộc Lan Hành Thương Khung",
+      artist:"木兰行  苍穹",
       mp3:"https://mp3.fastupload.co/data/1623245229/y2mate.com-Vietsub-Moc-Lan-Hanh-Thuong-Khung-SynthV-Vong-Xuyen-Phong-Hoa-Luc.mp3",
       oga:"https://mp3.fastupload.co/data/1623245229/y2mate.com-Vietsub-Moc-Lan-Hanh-Thuong-Khung-SynthV-Vong-Xuyen-Phong-Hoa-Luc.mp3",
       poster: "https://i.imgur.com/sCbrzQa.png"
