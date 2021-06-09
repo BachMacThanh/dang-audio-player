@@ -2,23 +2,18 @@ $(document).ready(function(){
 
 
   var playlist = [{
-      title:"Mộc Lan Hành Thương Khung",
-      artist:"木兰行  苍穹",
+      title:"Mộc Lan Hành",
+      artist:"Thương Khung",
       mp3:"https://mp3.fastupload.co/data/1623245229/y2mate.com-Vietsub-Moc-Lan-Hanh-Thuong-Khung-SynthV-Vong-Xuyen-Phong-Hoa-Luc.mp3",
       oga:"https://mp3.fastupload.co/data/1623245229/y2mate.com-Vietsub-Moc-Lan-Hanh-Thuong-Khung-SynthV-Vong-Xuyen-Phong-Hoa-Luc.mp3",
-      poster: "https://i.imgur.com/sCbrzQa.png"
+      poster: "https://i1.sndcdn.com/artworks-9yu8NtqUzMqfItul-o6Vwuw-t500x500.png"
     },{
-      title:"Cro Magnon Man",
-      artist:"The Stark Palace",
-      mp3:"http://www.jplayer.org/audio/mp3/TSP-01-Cro_magnon_man.mp3",
-      oga:"http://www.jplayer.org/audio/ogg/TSP-01-Cro_magnon_man.ogg",
-      poster: "https://i.imgur.com/lXvsuBu.png"
-    },{
-      title:"Bubble",
-      m4a: "http://www.jplayer.org/audio/m4a/Miaow-07-Bubble.m4a",
-      oga: "http://www.jplayer.org/audio/ogg/Miaow-07-Bubble.ogg",
-      poster: "https://i.imgur.com/klJKSVZ.jpg"
-  }];
+      title:"Họ yêu ai mất rồi",
+      artist:"Doãn Hiếu",
+      mp3:"https://mp3.fastupload.co/data/1623251650/y2mate.com-Ho-Yeu-Ai-Mat-Roi-l-Doan-Hieu-l-Official-Lofi-Version.mp3",
+      oga:"https://mp3.fastupload.co/data/1623251650/y2mate.com-Ho-Yeu-Ai-Mat-Roi-l-Doan-Hieu-l-Official-Lofi-Version.mp3",
+      poster: "https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/2/0/c/8/20c8208e735601981e8d3b85b3d4cacd.jpg"
+    }];
   
   var cssSelector = {
     jPlayer: "#jquery_jplayer",
